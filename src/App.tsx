@@ -28,7 +28,7 @@ const App: React.FC = () => {
       }
     }
     fetchData()
-  }, [])
+  }, [])   
 
   return (
     <>
